@@ -44,4 +44,4 @@ This Code of Conduct is not intended as a static set of rules by which everyone 
 
 # Acknowledgement
 
-This code of conduct was adapted from the code of conduct documented in the (Turing Way project)[https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md].
+This code of conduct was adapted from the code of conduct documented in the [Turing Way project](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
